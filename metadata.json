@@ -1,0 +1,6 @@
+{
+  "name": "Ayush Enterprises Bihar - Milk Testing & Dairy Automation Solutions",
+  "description": "Official business website of Ayush Enterprises Bihar. Trusted supplier of ultrasonic milk analyzers, AMCU collection systems, data processing units (DPU), thermal paper billing rolls, and dairy testing accessories in Samastipur, Bihar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
